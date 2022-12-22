@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@wizo06/logger": "^2.1.1",
+    "node-html-parser": "^6.1.1",
+    "sqlite3": "^5.1.4"
+  }
+}
